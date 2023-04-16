@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FallingSurvive",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\FallingSurvive\\Source\\FallingSurvive.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FallingSurviveEditor",
+			"Path": "C:\\Users\\user\\Documents\\Unreal Projects\\FallingSurvive\\Source\\FallingSurviveEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

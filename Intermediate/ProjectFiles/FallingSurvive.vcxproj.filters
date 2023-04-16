@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FallingSurvive.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{228CE6C1-4B6B-4CD8-B4D1-EECB5DD43423}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FallingSurvive.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FallingSurviveEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F6E13B86-79CA-46B5-AD77-0A6F752CB66B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FallingSurvive">
+      <UniqueIdentifier>{A9D87ABF-1EF8-475E-B50C-2936BD1A89E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FallingSurvive\FallingSurvive.Build.cs">
+      <Filter>Source\FallingSurvive</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FallingSurvive\FallingSurvive.cpp">
+      <Filter>Source\FallingSurvive</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FallingSurvive\FallingSurvive.h">
+      <Filter>Source\FallingSurvive</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FallingSurvive\FallingSurviveCharacter.cpp">
+      <Filter>Source\FallingSurvive</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FallingSurvive\FallingSurviveCharacter.h">
+      <Filter>Source\FallingSurvive</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FallingSurvive\FallingSurviveGameMode.cpp">
+      <Filter>Source\FallingSurvive</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FallingSurvive\FallingSurviveGameMode.h">
+      <Filter>Source\FallingSurvive</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
