@@ -7,11 +7,15 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\FallingSurviveEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\Wreckage.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\Staff.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\FallingSurvive.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\FallingSurviveCharacter.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\FallingSurviveGameMode.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\FallingSurvive.init.gen.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\FallingSurviveCharacter.gen.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\FallingSurviveGameMode.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\Staff.gen.cpp.obj"
+"C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\Wreckage.gen.cpp.obj"
 "C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\Default.rc2.res"
 /OUT:"C:\Users\user\Documents\Unreal Projects\FallingSurvive\Intermediate\Build\Win64\UE4Editor\Development\FallingSurvive\UE4Editor-FallingSurvive.lib"

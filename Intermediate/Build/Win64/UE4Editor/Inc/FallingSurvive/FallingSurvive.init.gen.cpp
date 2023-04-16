@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeFallingSurvive_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x0F15A2EE,
-				0x08AA0D30,
+				0x7742B002,
+				0xF793DB4D,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

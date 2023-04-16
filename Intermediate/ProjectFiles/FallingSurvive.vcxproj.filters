@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FallingSurvive.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{228CE6C1-4B6B-4CD8-B4D1-EECB5DD43423}</UniqueIdentifier>
+      <UniqueIdentifier>{B1D9C4BD-7E07-458B-B568-A63A80A545C9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FallingSurvive.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F6E13B86-79CA-46B5-AD77-0A6F752CB66B}</UniqueIdentifier>
+      <UniqueIdentifier>{F3648790-25DE-4F0C-86A6-0DAC498989D0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FallingSurvive">
-      <UniqueIdentifier>{A9D87ABF-1EF8-475E-B50C-2936BD1A89E7}</UniqueIdentifier>
+      <UniqueIdentifier>{A55DE106-7678-4D0A-80C2-544CAFDCC45B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FallingSurvive\FallingSurvive.Build.cs">
       <Filter>Source\FallingSurvive</Filter>
@@ -53,5 +53,25 @@
     <ClInclude Include="..\..\Source\FallingSurvive\FallingSurviveGameMode.h">
       <Filter>Source\FallingSurvive</Filter>
     </ClInclude>
+    <Filter Include="Source\FallingSurvive\Stuff">
+      <UniqueIdentifier>{CE677237-C0CE-4A1D-93B3-680EE1CDD72B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FallingSurvive\Stuff\Staff.cpp">
+      <Filter>Source\FallingSurvive\Stuff</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FallingSurvive\Stuff\Staff.h">
+      <Filter>Source\FallingSurvive\Stuff</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\FallingSurvive\Stuff\Wreckage">
+      <UniqueIdentifier>{efe28310-b208-49b0-b5e6-fbb5174c0894}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\FallingSurvive\Stuff\Wreckage\Wreckage.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\FallingSurvive\Stuff\Wreckage\Wreckage.cpp" />
   </ItemGroup>
 </Project>
